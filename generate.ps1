@@ -1,0 +1,40 @@
+cd ../Music
+ni "justin Bieber - baby.mp3"
+ni "justin Bieber - somebody to love.mp3"
+ni "justin Bieber - one less loner.mp3"
+ni "justin Bieber - eeniee meenie.mp3"
+ni "justin Bieber - u smile.mp3"
+
+ni "Linkin Park - one more light.mp3"
+ni "Linkin Park - peppercut.mp3"
+ni "Linkin Park - in the end.mp3"
+ni "Linkin Park - giving up.mp3"
+ni "Linkin Park - somewhere i belong.mp3"
+
+ni "Avenged Sevenfold - this means war.mp3"
+ni "Avenged Sevenfold - hail to the king.mp3"
+ni "Avenged Sevenfold - waking the fallen.mp3"
+ni "Avenged Sevenfold - afterlife.mp3"
+ni "Avenged Sevenfold - the stage.mp3"
+
+mkdir "Justin Bieber"
+mkdir "Linkin Park"
+mkdir "Avenged Sevenfold"
+
+mi -path "justin Bieber - baby.mp3" -destination "Justin Bieber"
+mi -path "justin Bieber - somebody to love.mp3" -destination "Justin Bieber"
+mi -path "justin Bieber - one less loner.mp3" -destination "Justin Bieber"
+mi -path "justin Bieber - eeniee meenie.mp3" -destination "Justin Bieber"
+mi -path "justin Bieber - u smile.mp3" -destination "Justin Bieber"
+
+mi -path "linkin park - one more light.mp3" -destination "Linkin Park"
+mi -path "linkin park - in the end.mp3" -destination "Linkin Park"
+mi -path "linkin park - giving up.mp3" -destination "Linkin Park"
+mi -path "linkin park - peppercut.mp3" -destination "Linkin Park"
+mi -path "linkin park - somewhere i belong.mp3" -destination "Linkin Park"
+
+mi -path "Avenged Sevenfold - this means war.mp3" -destination "Avenged Sevenfold"
+mi -path "Avenged Sevenfold - hail to the king.mp3" -destination "Avenged Sevenfold"
+mi -path "Avenged Sevenfold - waking the fallen.mp3" -destination "Avenged Sevenfold"
+mi -path "Avenged Sevenfold - afterlife.mp3" -destination "Avenged Sevenfold"
+mi -path "Avenged Sevenfold - the stage.mp3" -destination "Avenged Sevenfold"
