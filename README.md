@@ -1,1 +1,1 @@
-Saya Jalankan Filenya lewat /Document
+Saya Jalankan Filenya lewat /Document lalu klik kanan -> run with powershell
